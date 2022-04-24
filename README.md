@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgereJoseph1
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning Data science ans machine learning 
+- 🌱 I’m currently learning Data science and machine learning 
 - 💞️ I’m looking to collaborate with others to workon projects
 - 📫 How to reach me ...
 
