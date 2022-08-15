@@ -19,8 +19,8 @@
 
 <h4>
  <P>I am a third year Computer Science student at the University for Development Studies.<br>
-  I am an aspiring software engineer and Data scientist. <br>
-  My interest lie in using the big data in building systems that can think and make intelligent decisions <br>
+  I am an aspiring software engineer and Data scientist.<br>
+  My interest lie in using the big data in building systems that can think <br> and make intelligent decisions 
   Currently, I am open to offers in software engineering as an intern<br>
   Please chat me up on <a href="https://www.linkedin.com/in/agere-joseph-461743197/" >LinkedIn</a> <br>
   
