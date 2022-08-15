@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning Data science and machine learning 
 - 💞️ I’m looking to collaborate with others to workon projects
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/agere-joseph-461743197/
 
 <!---
 AgereJoseph1/AgereJoseph1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
