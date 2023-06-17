@@ -18,10 +18,7 @@
 <div align="center">
 
 <h4>
- <P>I am a third year Computer Science student at the University for Development Studies.<br>
-  I am an aspiring software engineer and Data scientist.<br>
-  My interest lie in using the big data in building systems that can think  and make intelligent decisions <br>
-  Currently, I am open to offers in software engineering as an intern<br>
+ <P>I am a software developer with a passion for software development, data science and machine learning. I have experience in developing and deploying applications and data pipelines using various programming languages such as Python, php,Java, and C++. I have a strong understanding of software development methodologies and design patterns. My expertise in data science and machine learning allows me to bring a unique perspective to my software development projects. I am always looking for new challenges and opportunities to learn and apply my skills to solve real-world problems. I believe that the power of data and machine learning can be harnessed to make a positive impact in various industries and domains. Let's connect and collaborate on exciting projects.<br>
   Please chat me up on <a href="https://www.linkedin.com/in/agere-joseph-461743197/" >LinkedIn</a> <br>
   
   .</P>
