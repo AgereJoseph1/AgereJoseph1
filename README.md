@@ -10,10 +10,10 @@
     <p>
         I'm keen to connect, collaborate, and share insights. Feel free to reach out on <a href="https://www.linkedin.com/in/agere-joseph-461743197/">LinkedIn</a>—let's make technology work wonders together.
     </p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AgereJoseph1&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
+    
 </div>
 
 
 
 [website]: https://www.linkedin.com/in/agere-joseph-461743197/
-[linkedin]: https://www.linkedin.com/in/patrickattankurugu1/
+
