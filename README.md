@@ -1,28 +1,18 @@
 <div align="center">
-  <img src="code.jpg" alt="Coding Image">
+    <img src="code.jpg" alt="Creative Coding">
+    <h1>About Me</h1>
+    <p>
+        Greetings! I'm an enthusiastic <strong>Software Developer</strong> deeply engrossed in <strong>Software Development, Data Science, and Machine Learning</strong>. My technical odyssey is adorned with experiences in designing, developing, and deploying sophisticated applications and data pipelines. Fluent in an array of programming languages such as Python, PHP, Java, and C++, I also bring to the table a robust understanding of software development methodologies and design patterns.
+    </p>
+    <p>
+        My adventures in Data Science and Machine Learning empower me to inject innovative analytical perspectives into my projects, making them not just solutions, but transformative experiences. Driven by a voracious appetite for challenges and knowledge, I aim to apply my skills to tackle real-world problems, believing fervently in the power of data and AI to revolutionize industries.
+    </p>
+    <p>
+        I'm keen to connect, collaborate, and share insights. Feel free to reach out on <a href="https://www.linkedin.com/in/agere-joseph-461743197/">LinkedIn</a>—let's make technology work wonders together.
+    </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=AgereJoseph1&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
 </div>
 
-<div align="center">
-  <h1>About Me</h1>
-</div>
-
-<div align="center">
-  <p>
-    I'm a passionate <strong>Software Developer</strong> with a keen interest in <strong>Software Development, Data Science, and Machine Learning</strong>. My journey in tech has seen me develop and deploy robust applications and data pipelines across a variety of programming languages, including Python, PHP, Java, and C++. I pride myself on my solid grasp of software development methodologies and design patterns.
-  </p>
-  <p>
-    My foray into Data Science and Machine Learning has endowed me with unique insights, enabling me to enrich my software projects with advanced analytical capabilities. Eager to tackle new challenges, I am on a constant quest to learn and harness my skills in solving real-world issues. I am a firm believer in the transformative power of data and machine learning, aspiring to make a meaningful impact across different sectors.
-  </p>
-  <p>
-    Let's connect and explore the potential of technology together. Feel free to reach out to me on <a href="https://www.linkedin.com/in/agere-joseph-461743197/">LinkedIn</a>.
-  </p>
-</div>
-
----
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AgereJoseph1&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats">
-</div>
 
 
 [website]: https://www.linkedin.com/in/agere-joseph-461743197/
