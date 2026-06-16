@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:115e59,100:0a0b0d&height=200&section=header&text=Joseph%20Agere&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%2FML%20Engineer%20%C2%B7%20Accra%2C%20Ghana&descAlignY=58&descColor=5eead4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:115e59,100:0a0b0d&height=200&section=header&text=Joseph%20Agere&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%2FML%20Engineer%20%C2%B7%20Accra%2C%20Ghana&descAlignY=58&descColor=5eead4"/>
+
+<a href="https://agerejoseph.com">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=5EEAD4&center=true&vCenter=true&width=620&lines=Agentic+%26+multi-agent+systems;Hybrid+RAG+%26+LLM+platforms;NLP+for+African+languages;From+prototype+to+production"/>
+</a>
 
 </div>
 
@@ -10,13 +14,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agere-joseph/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agerejoseph448@gmail.com)
 
+<img src="https://komarev.com/ghpvc/?username=AgereJoseph1&label=Profile%20views&color=10b981&style=flat"/>
+
 </div>
 
 ---
 
-### About Me
+### 🚀 About Me
 
-I'm an AI/ML engineer based in **Accra, Ghana**, building production AI systems end to end — **agentic & multi-agent platforms**, **hybrid RAG**, and **LLM / NLP** solutions. I lead the AI engineering team at **4th-IR**, with a foundation in software engineering and data science.
+I'm an AI/ML engineer based in **Accra, Ghana**, building production AI systems end to end — **agentic & multi-agent platforms**, **hybrid RAG**, and **LLM / NLP** solutions. My foundation is in software engineering and data science.
 
 - 🤖 Multi-agent systems with **LangGraph** & **MCP**
 - 🔎 Hybrid retrieval (dense + sparse) **RAG** pipelines
@@ -25,7 +31,7 @@ I'm an AI/ML engineer based in **Accra, Ghana**, building production AI systems 
 
 ---
 
-### Tech Stack
+### 🛠️ Tech Stack
 
 **Languages**
 
@@ -93,13 +99,24 @@ I'm an AI/ML engineer based in **Accra, Ghana**, building production AI systems 
 
 ---
 
+### 📊 GitHub Stats
+
 <div align="center">
 
-Reach out via [LinkedIn](https://www.linkedin.com/in/agere-joseph/) or [email](mailto:agerejoseph448@gmail.com).
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AgereJoseph1&show_icons=true&hide_border=true&bg_color=0a0b0d&title_color=5eead4&icon_color=a6e635&text_color=9da5b4"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgereJoseph1&layout=compact&hide_border=true&bg_color=0a0b0d&title_color=5eead4&text_color=9da5b4&langs_count=8"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=AgereJoseph1&hide_border=true&background=0a0b0d&stroke=1f2227&ring=5eead4&fire=a6e635&currStreakLabel=5eead4&sideLabels=9da5b4&dates=5d646e&currStreakNum=ffffff&sideNums=ffffff"/>
 
 </div>
 
+---
+
 <div align="center">
+
+Reach out via [LinkedIn](https://www.linkedin.com/in/agere-joseph/) or [email](mailto:agerejoseph448@gmail.com).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:115e59,100:0a0b0d&height=100&section=footer"/>
 
