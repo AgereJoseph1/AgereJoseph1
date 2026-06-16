@@ -99,18 +99,7 @@ I'm an AI/ML engineer based in **Accra, Ghana**, building production AI systems 
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AgereJoseph1&show_icons=true&hide_border=true&bg_color=0a0b0d&title_color=5eead4&icon_color=a6e635&text_color=9da5b4"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgereJoseph1&layout=compact&hide_border=true&bg_color=0a0b0d&title_color=5eead4&text_color=9da5b4&langs_count=8"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=AgereJoseph1&hide_border=true&background=0a0b0d&stroke=1f2227&ring=5eead4&fire=a6e635&currStreakLabel=5eead4&sideLabels=9da5b4&dates=5d646e&currStreakNum=ffffff&sideNums=ffffff"/>
-
-</div>
 
 ---
 
