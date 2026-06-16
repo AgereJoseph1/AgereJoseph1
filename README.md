@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Joseph%20Agere&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%2FML%20Engineer&descAlignY=58&descColor=a0a8d0"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:115e59,100:0a0b0d&height=200&section=header&text=Joseph%20Agere&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20AI%2FML%20Engineer%20%C2%B7%20Accra%2C%20Ghana&descAlignY=58&descColor=5eead4"/>
 
 </div>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-patrickaiafrica.com-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://patrickaiafrica.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-ai-africa/)
-[![X](https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/patrickaiafrica)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patricka.azuma@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-agerejoseph.com-10b981?style=for-the-badge&logo=vercel&logoColor=white)](https://agerejoseph.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agere-joseph/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agerejoseph448@gmail.com)
 
 </div>
 
@@ -17,109 +16,84 @@
 
 ### About Me
 
-I'm an AI/ML engineer based in Ghana, building AI systems for **identity verification**, **AML compliance**, and **fraud detection** across Africa.
+I'm an AI/ML engineer based in **Accra, Ghana**, building production AI systems end to end — **agentic & multi-agent platforms**, **hybrid RAG**, and **LLM / NLP** solutions. I lead the AI engineering team at **4th-IR**, with a foundation in software engineering and data science.
+
+- 🤖 Multi-agent systems with **LangGraph** & **MCP**
+- 🔎 Hybrid retrieval (dense + sparse) **RAG** pipelines
+- 🧩 LLM prompt pipelines, evaluation & **LoRA** fine-tuning
+- 🌍 Especially interested in **NLP for African languages** and low-resource settings
 
 ---
 
+### Tech Stack
 
-```
-
----
-
-### Tech Stack for KYC / KYB / KYE / AML
-
-**Languages & Core**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**AI / ML & Deep Learning**
+**AI / ML & NLP**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-![CNN](https://img.shields.io/badge/CNN-Convolutional_Networks-4B0082?style=flat-square)
-![RNN / LSTM](https://img.shields.io/badge/RNN-LSTM_/_GRU-4B0082?style=flat-square)
-![GNN](https://img.shields.io/badge/GNN-Graph_Neural_Networks-4B0082?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-Attention_Models-4B0082?style=flat-square)
-![Autoencoders](https://img.shields.io/badge/Autoencoders-Anomaly_Detection-4B0082?style=flat-square)
-![GANs](https://img.shields.io/badge/GANs-Deepfake_Generation_&_Detection-4B0082?style=flat-square)
+![NLP Pipelines](https://img.shields.io/badge/NLP_Pipelines-115e59?style=flat-square)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-115e59?style=flat-square)
+![LoRA Fine--tuning](https://img.shields.io/badge/LoRA_Fine--tuning-115e59?style=flat-square)
 
-**Identity Verification & Biometrics**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![DeepFace](https://img.shields.io/badge/DeepFace-FF6F00?style=for-the-badge&logoColor=white)
-![InsightFace](https://img.shields.io/badge/InsightFace-EE4C2C?style=for-the-badge&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logoColor=black)
-![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logoColor=white)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-0052CC?style=for-the-badge&logoColor=white)
-
-![Face Comparison](https://img.shields.io/badge/Face_Comparison-1a1a2e?style=flat-square)
-![Liveness Detection](https://img.shields.io/badge/Liveness_Detection-1a1a2e?style=flat-square)
-![Deepfake Detection](https://img.shields.io/badge/Deepfake_Detection-1a1a2e?style=flat-square)
-![ID Card OCR](https://img.shields.io/badge/ID_Card_OCR-1a1a2e?style=flat-square)
-![Passport MRZ Parsing](https://img.shields.io/badge/Passport_MRZ_Parsing-1a1a2e?style=flat-square)
-![Document Tampering](https://img.shields.io/badge/Document_Tampering_Detection-1a1a2e?style=flat-square)
-![Selfie Verification](https://img.shields.io/badge/Selfie_Verification-1a1a2e?style=flat-square)
-
-**LLMs, RAG & NLP for Compliance**
+**LLMs, Agents & RAG**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B21A8?style=for-the-badge&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-000000?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-1C1C1C?style=for-the-badge&logo=weaviate&logoColor=white)
 
-![Named Entity Recognition](https://img.shields.io/badge/NER-Entity_Extraction-302b63?style=flat-square)
-![Entity Resolution](https://img.shields.io/badge/Entity_Resolution-Fuzzy_Matching-302b63?style=flat-square)
-![Sanctions Screening](https://img.shields.io/badge/Sanctions_Screening-Watchlist_Match-302b63?style=flat-square)
-![Adverse Media](https://img.shields.io/badge/Adverse_Media-News_Classification-302b63?style=flat-square)
-![PEP Screening](https://img.shields.io/badge/PEP_Screening-Risk_Classification-302b63?style=flat-square)
+![Multi--agent Orchestration](https://img.shields.io/badge/Multi--agent_Orchestration-302b63?style=flat-square)
+![Hybrid RAG](https://img.shields.io/badge/Hybrid_RAG-302b63?style=flat-square)
+![Prompt Pipelines](https://img.shields.io/badge/Prompt_Pipelines-302b63?style=flat-square)
 
+**Backend & APIs**
 
-**Data Streaming & Pipelines**
-
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Web Frameworks**
+**Data, MLOps & Cloud**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-**DevOps, Cloud & Security**
-
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+![MLOps](https://img.shields.io/badge/MLOps-0f0c29?style=flat-square)
+![LLMOps](https://img.shields.io/badge/LLMOps-0f0c29?style=flat-square)
 
-
+---
 
 <div align="center">
-
 
 Reach out via [LinkedIn](https://www.linkedin.com/in/agere-joseph/) or [email](mailto:agerejoseph448@gmail.com).
 
@@ -127,6 +101,6 @@ Reach out via [LinkedIn](https://www.linkedin.com/in/agere-joseph/) or [email](m
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0b0d,50:115e59,100:0a0b0d&height=100&section=footer"/>
 
 </div>
