@@ -20,18 +20,18 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm an AI/ML engineer based in **Accra, Ghana**, building production AI systems end to end — **agentic & multi-agent platforms**, **hybrid RAG**, and **LLM / NLP** solutions. My foundation is in software engineering and data science.
 
-- 🤖 Multi-agent systems with **LangGraph** & **MCP**
-- 🔎 Hybrid retrieval (dense + sparse) **RAG** pipelines
-- 🧩 LLM prompt pipelines, evaluation & **LoRA** fine-tuning
-- 🌍 Especially interested in **NLP for African languages** and low-resource settings
+-  Multi-agent systems with **LangGraph** & **MCP**
+-  Hybrid retrieval (dense + sparse) **RAG** pipelines
+- LLM prompt pipelines, evaluation & **LoRA** fine-tuning
+- Especially interested in **NLP for African languages** and low-resource settings
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
